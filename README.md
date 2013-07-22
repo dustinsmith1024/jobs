@@ -1,6 +1,6 @@
 # Joining C2FO
 
-Send us a pull request against this repository to apply for a one of the jobs below.
+Send us a pull request against this repository to apply for one of the jobs below.
 Please include links to projects or code you take pride in. Above all, show us why you would be a good fit at C2FO!  
 
 ### Extra Credit  
