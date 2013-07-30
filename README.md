@@ -1,10 +1,9 @@
 # Joining C2FO
 
-Send us a pull request against this repository to apply for one of the jobs below.
-Please include links to projects or code you take pride in. Above all, show us why you would be a good fit at C2FO!  
+Send us an email to careers@c2fo.com. Please include links to projects or code you take pride in. Above all, show us why you would be a good fit at C2FO!  
 
 ### Extra Credit  
-Get our attention even quicker by including a simple app (a Todo app or similar) written in [Node.js] and our any of our open source projects ([Comb], [Patio], etc ...)
+Get our attention even quicker by forking this repo and sending us a pull request, including a simple app (a Todo app or similar) written in [Node.js] and our any of our open source projects ([Comb], [Patio], etc ...). 
 
 ________________
 
@@ -17,7 +16,7 @@ Jobs
 
 * You are comfortable writing HTML and CSS for multiple browsers and devices
 * You are an experienced JavaScript developer
-* You are passionante about Web development
+* You are passionate about Web development
 * You are interested in learning new technologies, standards, and techniques
 * You use frameworks or libraries because it is convienent, not because you have to
 
