@@ -18,7 +18,7 @@ Jobs
 * You are an experienced JavaScript developer
 * You are passionate about Web development
 * You are interested in learning new technologies, standards, and techniques
-* You use frameworks or libraries because it is convienent, not because you have to
+* You use frameworks or libraries because it is convenient, not because you have to
 
 *Key Skills*  
 
