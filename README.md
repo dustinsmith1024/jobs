@@ -1,6 +1,6 @@
 # Joining C2FO
 
-Send us an email to careers@c2fo.com. Please include links to projects or code you take pride in. Above all, show us why you would be a good fit at C2FO!  
+Send us an email to tech-jobs@c2fo.com. Please include links to projects or code you take pride in. Above all, show us why you would be a good fit at C2FO!  
 
 ### Extra Credit  
 Get our attention even quicker by forking this repo and sending us a pull request, including a simple app (a Todo app or similar) written in [Node.js] and our any of our open source projects ([Comb], [Patio], etc ...). 
