@@ -1,9 +1,9 @@
 # Joining C2FO
 
-Send us an email to tech-jobs@c2fo.com. Please include links to projects or code you take pride in. Above all, show us why you would be a good fit at C2FO!  
+Send us an email at tech-jobs@c2fo.com. Please include links to projects or code you take pride in. Above all, show us why you would be a good fit at C2FO!  
 
 ### Extra Credit  
-Get our attention even quicker by forking this repo and sending us a pull request, including a simple app (a Todo app or similar) written in [Node.js] and our any of our open source projects ([Comb], [Patio], etc ...). 
+Get our attention even quicker by forking this repo and sending us a pull request, including a simple app (a Todo app or similar) written in [Node.js] and/or any of our open source projects ([Comb], [Patio], etc ...). 
 
 ________________
 
@@ -40,9 +40,9 @@ Jobs
 * You are an experienced JavaScript developer
 * You have a supportable opinion when asked if callbacks or promises are better
 * You have a supportable opinion when asked if an ORM is worth it
-* You have a good understanding of how computers, networks, and security work
+* You have a good understanding of computers, networks, and security
 * You are self motivated, driven, self-taught, and have a great work ethic
-* You are self managed
+* You can self manage
 * You believe in open-source software
 * You are interested in learning new technologies, standards, and techniques
 
@@ -77,13 +77,13 @@ Jobs
 
 *Key Descriptors*
 
-* Your work well with people
+* You work well with people
 * You have a supportable opinion when asked if an ORM is worth it
-* You have a good understanding of how computers, networks, and security work
+* You have a good understanding of computers, networks, and security
 * You are self motivated, driven, self-taught, and have a great work ethic
-* You are self managed
+* You can self manage
 * You enjoy the challenge of solving client problems quickly and doing customer focused R&D
-* You are have worked in a Scrum/KanBan environment
+* You have worked in a Scrum/KanBan environment
 
 *Key Skills*  
 
