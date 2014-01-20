@@ -10,7 +10,7 @@ ________________
 Jobs
 ====
  
-## Frontend Software Engineer (Kansas City, relocation available)  
+## Frontend Software Engineer (Kansas City)  
 
 *Key Descriptors*
 
@@ -30,7 +30,7 @@ Jobs
 * Experience with [Frontend DevOps] a plus
 * AWS experience a plus
  
-## Backend Software Engineer (Kansas City, relocation available)  
+## Backend Software Engineer (Kansas City)  
 
 *Key Descriptors*
 
@@ -53,7 +53,7 @@ Jobs
 * PostgreSQL
 * AWS experience a plus
  
-## DevOps Software Engineer (Kansas City, relocation available)  
+## DevOps Software Engineer (Kansas City)  
 
 *Key Descriptors*
 
@@ -73,7 +73,7 @@ Jobs
 * RabbitMQ or other messaging platform experience
 * Scaling web based services experience
  
-## ClientOps Software Engineer (Kansas City, relocation available)  
+## ClientOps Software Engineer (Kansas City)  
 
 *Key Descriptors*
 
@@ -90,7 +90,7 @@ Jobs
 * Ruby programming experience
 * Mysql experience
 * JavaScript experience
-* Dojo a plus
+* [Dojo] a plus
 * HTML and CSS experience
 * Batch file processing experience a plus
 * Mongo experience a plus  
