@@ -2,104 +2,79 @@
 
 Send us an email at [tech-jobs@c2fo.com](mailto:tech-jobs@c2fo.com) . Please include links to projects or code you take pride in. Above all, show us why you would be a good fit at C2FO!  
 
-### Extra Credit  
-Get our attention even quicker by forking this repo and sending us a pull request, including a simple app (a Todo app or similar) written in [Node.js] and/or any of our open source projects ([Comb], [Patio], etc ...). 
-
 ________________
 
 Jobs
 ====
  
-## Frontend Software Engineer (Kansas City)  
+# Frontend Engineer 
 
-*Key Descriptors*
+Our frontend engineers are on the front lines of defining how our customers interact with the C2FO market. Working closely with our Product team, we implement user interfaces for both internal and external customers. We use the right tools for the right job and keep our stack as modernized as possible. While frontend is our passion, we are familiar and comfortable with full-stack work.   
 
-* You are comfortable writing HTML and CSS for multiple browsers and devices
-* You are an experienced JavaScript developer
-* You are passionate about Web development
-* You are interested in learning new technologies, standards, and techniques
-* You use frameworks or libraries because it is convenient, not because you have to
+### Responsibilites  
+* Work with our Product team to work through requirements for new features
+* Write fast, reusable code 
+* Find and address performance issues
+* Participate in code reviews
+* Drive front-end best practices 
 
-*Key Skills*  
+### Requirements  
+* Expert knowledge of JavaScript
+* Write clean HTML and CSS
+* Know the ins and outs of modern JavaScript libraries and tools
+* Understand cross-browser compatibality and performance characteristics
+* Understand Computer Science fundamentals
 
-* HTML
-* CSS (LESS/SASS)
-* JavaScript
-* Backbone and its dependencies
-* [Dojo] a plus.
-* Experience with [Frontend DevOps] a plus
-* AWS experience a plus
- 
-## Backend Software Engineer (Kansas City)  
+# Backend Engineer   
 
-*Key Descriptors*
+Backend engineers build and orchestrate the services that make the C2FO market tick. We build and maintain services that make up the internal workings of the C2FO market, ranging from something as simple as resetting a password to something as complicated as calculating market prices on millions of invoices. We iterate quickly, with a focus on scalability and ensuring maintainability.  
 
-* You enjoy solving hard problems
-* You are interested in algorithms
-* You understand the importance of building a scalable architecture
-* You are an experienced JavaScript developer
-* You have a supportable opinion when asked if callbacks or promises are better
-* You have a supportable opinion when asked if an ORM is worth it
-* You have a good understanding of computers, networks, and security
-* You are self motivated, driven, self-taught, and have a great work ethic
-* You can self manage
-* You believe in open-source software
-* You are interested in learning new technologies, standards, and techniques
+### Responsibilites  
 
-*Key Skills*  
+* Solve challenging problems in a scalable architecture
+* Work closely with Product and Data Scientists to implement new features
+* Write and maintain unit tests
+* Continue the development of the C2FO API
+* Integrate with third party APIs 
+* Participate in code reviews
 
+
+### Requirements  
+
+* Have a solid grasp of Computer Science fundamentals
 * [Node.js] or Asynchronous Programming
-* AMQP or Message Queues
-* PostgreSQL
-* AWS experience a plus
- 
-## DevOps Software Engineer (Kansas City)  
+* [Go] or other compiled languges experience
+* Message Queues
+* PostgreSQL or any other relational database
+* Working in a distributed architecture  
 
-*Key Descriptors*
+# DevOps
 
-* You base your pride on maintaining uptime
-* You are self motivated
-* You believe continuous integration is the only way
-* You understand the importance of [Frontend DevOps]
-* You enjoy building tooling around maintenance and deployments
+Developers desire change; Operations want stability.  The C2FO DevOps team strives to bring these two together in an efficient way.  We provide the tools that allow developers to deploy their code in a timely and productive manner.  From maintaining the build system to providing continuous integration testing to writing custom tools that manage resources in the Cloud, C2FO DevOps will be there to answer the call.
 
-*Key Skills*  
+### Responsibilites  
 
-* Amazon Web Service experience
-* Linux/Unix CLI expert
-* Scripting experience
-* [Node.js] and/or [Go] a bonus
-* PostgreSQL experience
-* RabbitMQ or other messaging platform experience
-* Scaling web based services experience
- 
-## ClientOps Software Engineer (Kansas City)  
+* Manage various Cloud resources including compute instances, databases, and storage
+* Work closely with back end developers to deploy new services
+* Write and maintain deployment tools which will be used by Product and Dev
+* Maintain an inhouse continous integration setup
 
-*Key Descriptors*
 
-* You work well with people
-* You have a supportable opinion when asked if an ORM is worth it
-* You have a good understanding of computers, networks, and security
-* You are self motivated, driven, self-taught, and have a great work ethic
-* You can self manage
-* You enjoy the challenge of solving client problems quickly and doing customer focused R&D
-* You have worked in a Scrum/KanBan environment
+### Requirements  
 
-*Key Skills*  
-
-* Ruby programming experience
-* Mysql experience
-* JavaScript experience
-* [Dojo] a plus
-* HTML and CSS experience
-* Batch file processing experience a plus
-* Mongo experience a plus  
-
+* Continuous integration system experience (Jenkins experience a plus)
+* Compiled languges experience ([Go] experience a plus)
+* Familiar with Amazon Web Services and their API
+* Docker experience
+* Linux experience (specifically [CoreOS] Linux)
+* Familiarity with CoreOS services such as [Etcd] and [Fleet] 
 
 
 [Go]: http://golang.org/
 [Node.js]: http://nodejs.org/
-[Comb]: https://npmjs.org/package/comb
-[Patio]: https://npmjs.org/package/patio
-[Dojo]: http://dojotoolkit.org/
-[Frontend DevOps]: http://www.smashingmagazine.com/2013/06/11/front-end-ops/
+[AngularJS]: https://angularjs.org/
+[Frontend DevOps]: http://www.smashingmagazine.com/2013/06/11/front-end-ops/ 
+[AWS RDS]: http://aws.amazon.com/rds/
+[CoreOS]: https://coreos.com/
+[Etcd]: https://github.com/coreos/etcd
+[Fleet]: https://github.com/coreos/fleet
