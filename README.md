@@ -43,7 +43,7 @@ Backend engineers build and orchestrate the services that make the C2FO market t
 
 * Have a solid grasp of Computer Science fundamentals
 * [Node.js] or Asynchronous Programming
-* [Go] or other compiled languages experience
+* [Go] or another compiled language
 * Message Queues
 * PostgreSQL or any other relational database
 * Working in a distributed architecture  
@@ -82,15 +82,16 @@ Data is the lifeblood of any technology company. At C2FO, we know that the best 
 
 
 ### Requirements
-* Advanced proficiency with Big Data streaming and processing technologies (preferably Apache Spark)
+* Advanced proficiency with Big Data streaming and processing technologies (preferably [Apache Spark])
 * Experience using technologies in the Hadoop Ecosystem as well as Linux/Unix operating systems
-* Proficiency with a JVM language (preferably Scala)
+* Proficiency with a JVM language (preferably [Scala])
 * Experience with cloud-hosted computing (preferably AWS)
 * Familiarity with traditional RDBM systems and SQL
 * Experience using a version control system (preferably Git)
 * Curiosity and a drive to solve complex problems (where the answers can't always be found on Stack Overflow)
 
 [AngularJS]: https://angularjs.org/
+[Apache Spark]: https://spark.apache.org/
 [AWS RDS]: http://aws.amazon.com/rds/
 [CoreOS]: https://coreos.com/
 [Etcd]: https://github.com/coreos/etcd
@@ -98,3 +99,4 @@ Data is the lifeblood of any technology company. At C2FO, we know that the best 
 [Frontend DevOps]: http://www.smashingmagazine.com/2013/06/11/front-end-ops/
 [Go]: http://golang.org/
 [Node.js]: http://nodejs.org/
+[Scala]: http://www.scala-lang.org/
