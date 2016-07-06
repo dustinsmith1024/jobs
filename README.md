@@ -2,6 +2,8 @@
 
 Send us an email at [tech-jobs@c2fo.com](mailto:tech-jobs@c2fo.com) . Please include links to projects or code you take pride in. Above all, show us why you would be a good fit at C2FO!  
 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/c2fo/c2fo)
+
 ________________
 
 Jobs
