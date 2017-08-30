@@ -63,17 +63,18 @@ Developers desire change; Operations want stability. The C2FO DevOps team strive
 
 ### Requirements
 
+* Ability to work on, learn, and do things you haven't done before
 * Proficiency in or ability to work in high-level languages like Python or Bash
 * Familiarity with configuration management software such as Ansible or Salt
-* Familiarity with Amazon Web Services, Google Compute Platform, and their APIs
-* Linux experience (specifically [CoreOS] Linux)
-* Familiarity with CoreOS services such as [etcd]
+* Familiarity with Amazon Web Services and their APIs
+* Linux experience
 
 ### Bonus Points
 
 * Experience with Docker
 * Experience with Kubernetes
 * Contributions to open source
+* Experience with Google Cloud Platform
 * Interest in or experience with compiled languages (like [Go])
 * Continuous integration system experience
 
