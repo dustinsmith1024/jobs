@@ -50,7 +50,7 @@ Backend engineers build and orchestrate the services that make the C2FO market t
 * PostgreSQL or any other relational database
 * Working in a distributed architecture  
 
-# DevOps / SRE
+# DevOps
 
 Developers desire change; Operations want stability. The C2FO DevOps team strives to bring these two together in an efficient way. We provide the tools that allow developers to deploy their code in a timely and productive manner. Whether it's enhancing the build system, providing CI testing, or writing custom tools that manage resources in multiple clouds, C2FO DevOps will be there to answer the call.
 
