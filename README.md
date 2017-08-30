@@ -52,24 +52,32 @@ Backend engineers build and orchestrate the services that make the C2FO market t
 
 # DevOps
 
-Developers desire change; Operations want stability.  The C2FO DevOps team strives to bring these two together in an efficient way.  We provide the tools that allow developers to deploy their code in a timely and productive manner.  From maintaining the build system to providing continuous integration testing to writing custom tools that manage resources in the Cloud, C2FO DevOps will be there to answer the call.
+Developers desire change; Operations want stability. The C2FO DevOps team strives to bring these two together in an efficient way. We provide the tools that allow developers to deploy their code in a timely and productive manner. Whether it's enhancing the build system, providing CI testing, or writing custom tools that manage resources in multiple clouds, C2FO DevOps will be there to answer the call.
 
-### Responsibilites  
+### Responsibilities  
 
-* Manage various Cloud resources including compute instances, databases, and storage
-* Work closely with back end developers to deploy new services
-* Write and maintain deployment tools which will be used by Product and Dev
-* Maintain an in-house continuous integration setup
+* Provision and maintain multi-cloud infrastructure through reusable code and tooling
+* Work closely with other teams to deploy new services and ensure uptime and reliability of our infrastructure
+* Manage and enhance our in-house deployment platform
+* Manage and enhance monitoring systems to analyze metrics and performance
 
+### Requirements
 
-### Requirements  
+* Ability to work on, learn, and do things you haven't done before
+* Proficiency in or ability to work in high-level languages like Python or Bash
+* Familiarity with configuration management software such as Ansible or Salt
+* Familiarity with Amazon Web Services and their APIs
+* Linux experience
 
-* Continuous integration system experience (Jenkins experience a plus)
-* Compiled languges experience ([Go] experience a plus)
-* Familiar with Amazon Web Services and their API
-* Docker experience
-* Linux experience (specifically [CoreOS] Linux)
-* Familiarity with CoreOS services such as [Etcd] and [Fleet]
+### Bonus Points
+
+* Experience with Docker
+* Experience with Kubernetes
+* Contributions to open source
+* Experience with Google Cloud Platform
+* Interest in or experience with compiled languages (like [Go])
+* Continuous integration system experience
+
 
 # Data Engineer
 Data is the lifeblood of any technology company. At C2FO, we know that the best way to ensure our success is to provide our decision-makers with the most accurate, most relevant data possible. Our Data Engineers use cutting-edge, open-source technologies to collect, process, and store our data. We use the flexibility of cloud-hosted computing to prototype and implement the latest and greatest data tools.
@@ -96,8 +104,7 @@ Data is the lifeblood of any technology company. At C2FO, we know that the best 
 [Apache Spark]: https://spark.apache.org/
 [AWS RDS]: http://aws.amazon.com/rds/
 [CoreOS]: https://coreos.com/
-[Etcd]: https://github.com/coreos/etcd
-[Fleet]: https://github.com/coreos/fleet
+[etcd]: https://github.com/coreos/etcd
 [Frontend DevOps]: http://www.smashingmagazine.com/2013/06/11/front-end-ops/
 [Go]: http://golang.org/
 [Node.js]: http://nodejs.org/
