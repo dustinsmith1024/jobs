@@ -4,12 +4,20 @@ Send us an email at [tech-jobs@c2fo.com](mailto:tech-jobs@c2fo.com) . Please inc
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/c2fo/c2fo)
 
+# Jobs
+
+<!-- TOC depthFrom:2 depthTo:2 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Frontend Engineer](#frontend-engineer)
+- [Backend Engineer](#backend-engineer)
+- [DevOps](#devops)
+- [Data Engineer](#data-engineer)
+
+<!-- /TOC -->
+
 ________________
 
-Jobs
-====
-
-# Frontend Engineer
+## Frontend Engineer
 
 Our frontend engineers are on the front lines of defining how our customers interact with the C2FO market. Working closely with our Product team, we implement user interfaces for both internal and external customers. We use the right tools for the right job and keep our stack as modernized as possible. While frontend is our passion, we are familiar and comfortable with full-stack work.   
 
@@ -27,7 +35,7 @@ Our frontend engineers are on the front lines of defining how our customers inte
 * Understand cross-browser compatibility and performance characteristics
 * Understand Computer Science fundamentals
 
-# Backend Engineer   
+## Backend Engineer   
 
 Backend engineers build and orchestrate the services that make the C2FO market tick. We build and maintain services that make up the internal workings of the C2FO market, ranging from something as simple as resetting a password to something as complicated as calculating market prices on millions of invoices. We iterate quickly, with a focus on scalability and ensuring maintainability.  
 
@@ -50,7 +58,7 @@ Backend engineers build and orchestrate the services that make the C2FO market t
 * PostgreSQL or any other relational database
 * Working in a distributed architecture  
 
-# DevOps
+## DevOps
 
 Developers desire change; Operations want stability. The C2FO DevOps team strives to bring these two together in an efficient way. We provide the tools that allow developers to deploy their code in a timely and productive manner. Whether it's enhancing the build system, providing CI testing, or writing custom tools that manage resources in multiple clouds, C2FO DevOps will be there to answer the call.
 
@@ -79,7 +87,7 @@ Developers desire change; Operations want stability. The C2FO DevOps team strive
 * Continuous integration system experience
 
 
-# Data Engineer
+## Data Engineer
 Data is the lifeblood of any technology company. At C2FO, we know that the best way to ensure our success is to provide our decision-makers with the most accurate, most relevant data possible. Our Data Engineers use cutting-edge, open-source technologies to collect, process, and store our data. We use the flexibility of cloud-hosted computing to prototype and implement the latest and greatest data tools.
 
 ### Responsibilities
